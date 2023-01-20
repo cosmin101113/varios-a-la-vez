@@ -1,0 +1,7 @@
+Obj:1 http://es.archive.ubuntu.com/ubuntu bionic InRelease
+Obj:2 http://es.archive.ubuntu.com/ubuntu bionic-updates InRelease
+Obj:3 http://es.archive.ubuntu.com/ubuntu bionic-backports InRelease
+Obj:4 http://es.archive.ubuntu.com/ubuntu bionic-security InRelease
+Leyendo lista de paquetes...
+total 4
+-rw-r--r-- 1 root root 450 ene 18 08:43 ultimolog.log
